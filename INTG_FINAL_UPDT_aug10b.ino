@@ -1,7 +1,5 @@
 /*
- * Project:Intel conveyor belt
- * Manager: Logesh J
- * Architect: Raghul
+ 
  * Edited by: Amith J
  * Edited on : 22 Aug 2018
  * The motor is configured at 3200 steps for one full rotation i.e 360 digrees. 1 step=0.1125 digree 
